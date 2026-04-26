@@ -1,8 +1,10 @@
 # Netflix Content Strategy Analysis
 
 ## Project Summary
-This project analyzes Netflix's global content catalog to identify trends in Movies, TV Shows, genres, countries, ratings, release patterns, and content strategy opportunities.
-The objective was to use data analysis techniques to generate meaningful business insights and recommendations that could help Netflix improve market expansion, content planning, and audience engagement.
+This project analyzes Netflix's global content catalog to identify trends in Movies, TV Shows, genres, countries, ratings, release patterns and content strategy opportunities.
+
+The objective was to use data analysis techniques to generate meaningful business insights and recommendations that could help Netflix to expand globally and improve audience engagement.
+
 ---
 ## Business Objective
 - What type of content majorly cover Netflix catalog
